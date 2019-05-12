@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://proshin-roman.github.io"
+url: "https://proshin.org"
 baseurl: ""
 
 # Name of website
@@ -94,7 +94,7 @@ url-pretty: "proshin.org"  # eg. "deanattali.com/beautiful-jekyll"
 #google_analytics: ""
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "UA-140037538-1"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
@@ -142,7 +142,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Berlin"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
