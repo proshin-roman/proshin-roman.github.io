@@ -94,7 +94,7 @@ url-pretty: "proshin.org"  # eg. "deanattali.com/beautiful-jekyll"
 #google_analytics: ""
 
 # Google Tag Manager ID
-gtm: "UA-140037538-1"
+gtm: "GTM-5KVZW4T"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
