@@ -1,8 +1,9 @@
 ---
-typora-root-url: ../../proshin-roman.github.io
+layout: post
 title: "Make it final, Luke!"
-tags: [oop, java]
+tags: [oop, java, final]
 image: /img/posts/iron-man.jpg
+description: Explain, why the "final" keyword is a "must have" in Java
 ---
 
 Just a few days ago I was reviewing a pull request of one of my colleagues. He added a new class with multiple fields, but all they weren’t final. And I wrote a comment “make it final, please”. And that’s why I decided to write this post.

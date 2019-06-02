@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Use interfaces, Luke
+tags: [oop, java, interface]
 description: Explaining why interfaces should be preferred to using specific implementation
 ---
 
